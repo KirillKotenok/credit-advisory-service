@@ -1,0 +1,13 @@
+package com.kornello.creditadvisoryservice;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CreditAdvisoryServiceApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
